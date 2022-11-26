@@ -1,3 +1,16 @@
+# v0.3.2 (Sat Nov 26 2022)
+
+#### ⚠️ Pushed to `main`
+
+- Merge branch 'main' of https://github.com/joaotelesk/AluraBooks-ds into main ([@joaotelesk](https://github.com/joaotelesk))
+- :books: docs: Atualizaçao do README ([@joaotelesk](https://github.com/joaotelesk))
+
+#### Authors: 1
+
+- João Teles ([@joaotelesk](https://github.com/joaotelesk))
+
+---
+
 # v0.3.1 (Sat Nov 26 2022)
 
 #### ⚠️ Pushed to `main`
